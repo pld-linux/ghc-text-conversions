@@ -6,7 +6,7 @@
 Summary:	Safe conversions between textual types
 Name:		ghc-%{pkgname}
 Version:	0.3.0
-Release:	1
+Release:	2
 License:	ISC
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/text-conversions
